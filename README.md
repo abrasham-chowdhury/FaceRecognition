@@ -2,7 +2,7 @@
 
 Recognize faces from images.
 
-## Run:
+## Run
 - python main.py  
 OR
 - python main.py ${path_to_image}
